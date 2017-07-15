@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  context-path: /springboot
+
+person:
+  name: LH2
+  age: 24
